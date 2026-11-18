@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+data/cache/
+data/*.faiss
+data/*.pkl
+# сирі дані EM-DAT не поширюються (умови ліцензії)
+data/raw/public_emdat_project.csv
+.idea/

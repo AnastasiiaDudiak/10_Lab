@@ -1,0 +1,12 @@
+id,твердження,тип,джерело,рівень верифікації,статус,коментар
+C01,"Моделі multilingual-e5 потребують префіксів ""query: "" для запитів і ""passage: "" для фрагментів",факт,"Model card intfloat/multilingual-e5-small (Hugging Face)",V1,pending,"Перевірити в model card (розділ FAQ / usage)"
+C02,"paraphrase-multilingual-MiniLM-L12-v2 має max_seq_length = 128 токенів, довший текст обрізається",факт,"Model card; вивід src/index.py (табл. 3.1)",V1,pending,"Звірити зі значенням max_seq_length, яке друкує скрипт (V4)"
+C03,"RRF: score = Σ 1/(k + rank), k = 60 — стандартне значення",факт,"Cormack, Clarke, Büttcher (2009) Reciprocal Rank Fusion outperforms Condorcet and individual rank learning methods, SIGIR",V1,pending,"Перевірити формулу в статті"
+C04,"У HNSW більші M та efSearch підвищують recall ціною пам'яті/затримки",факт,"Malkov & Yashunin (2020), IEEE TPAMI; табл. 3.3 (ефект efSearch)",V1,pending,"Підтвердити таблицею 3.3 (V4)"
+C05,"FAISS IndexHNSWFlat не підтримує remove_ids, тому видалення реалізовано через tombstones + compact()",факт,"Faiss wiki; перевірка в src/index.py (рядок про remove_ids у docs/embeddings_cmp.md)",V1,pending,"Скрипт сам викликає remove_ids і фіксує помилку (V4)"
+C06,"Тексти Вікіпедії доступні за ліцензією CC BY-SA 4.0",факт,"https://uk.wikipedia.org/wiki/Вікіпедія:Авторське_право",V1,pending,"Перевірити на сторінці ліцензування"
+C07,"Дані EM-DAT надаються для некомерційного використання; повторне поширення заборонене",правило,"Умови використання EM-DAT (https://www.emdat.be/)",V1,pending,"Перевірити Terms of Use; звідси sensitivity = restricted"
+C08,"cross-encoder/mmarco-mMiniLMv2-L12-H384-v1 — багатомовний (навчений на mMARCO), підходить для української",факт,"Model card на Hugging Face",V1,pending,"Перевірити список мов mMARCO"
+C09,"Обрізання слів до 6 символів («легкий стемінг») покращує BM25 для української",гіпотеза,"Результат 5, порівняння bm25 vs bm25_nostem",V4,pending,"Статус за таблицею 5.3"
+C10,"Гібридний пошук кращий за dense на запитах з ключовими словами/назвами/числами",гіпотеза,"Результати 4–5 (табл. 5.4, приклади 4.3)",V4,pending,"Статус за таблицею 5.4"
+C11,"Каппа Коена: κ = (p_o − p_e)/(1 − p_e); κ > 0.6 — значна згода",факт,"Cohen (1960); Landis & Koch (1977)",V1,pending,"Перевірити шкалу"
