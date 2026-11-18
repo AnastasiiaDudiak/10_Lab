@@ -1,0 +1,11 @@
+{
+  "n": 10,
+  "agreement": 0.8,
+  "kappa": 0.0,
+  "pe": 0.8,
+  "interpretation": "згода не краща за випадкову",
+  "disagreements": [
+    "t07",
+    "t08"
+  ]
+}

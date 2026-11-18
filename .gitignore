@@ -5,4 +5,6 @@ data/*.faiss
 data/*.pkl
 # сирі дані EM-DAT не поширюються (умови ліцензії)
 data/raw/public_emdat_project.csv
+.env
+data/llm_cache/
 .idea/

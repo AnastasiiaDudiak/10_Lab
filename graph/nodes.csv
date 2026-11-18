@@ -1,0 +1,780 @@
+﻿id,kind,name
+Event:2023-0002-PHL,Event,Flood
+Country:Philippines,Country,Philippines
+Region:Asia,Region,Asia
+Group:Natural,Group,Natural
+Subgroup:Hydrological,Subgroup,Hydrological
+Type:Flood,Type,Flood
+Subtype:Flood (General),Subtype,Flood (General)
+Event:2023-0003-NGA,Event,Water
+Country:Nigeria,Country,Nigeria
+Region:Africa,Region,Africa
+Group:Technological,Group,Technological
+Subgroup:Transport,Subgroup,Transport
+Type:Water,Type,Water
+Subtype:Water,Subtype,Water
+Event:2023-0006-IDN,Event,Earthquake
+Country:Indonesia,Country,Indonesia
+Subgroup:Geophysical,Subgroup,Geophysical
+Type:Earthquake,Type,Earthquake
+Subtype:Ground movement,Subtype,Ground movement
+Event:2023-0007-COL,Event,Mass movement (wet)
+Country:Colombia,Country,Colombia
+Region:Americas,Region,Americas
+Type:Mass movement (wet),Type,Mass movement (wet)
+Subtype:Landslide (wet),Subtype,Landslide (wet)
+Event:2023-0011-ARM,Event,Military house
+Country:Armenia,Country,Armenia
+Subgroup:Miscellaneous accident,Subgroup,Miscellaneous accident
+Type:Fire (Miscellaneous),Type,Fire (Miscellaneous)
+Subtype:Fire (Miscellaneous),Subtype,Fire (Miscellaneous)
+Event:2023-0012-IRN,Event,Earthquake
+Country:Iran (Islamic Republic of),Country,Iran (Islamic Republic of)
+Event:2023-0013-UKR,Event,Helicopter
+Country:Ukraine,Country,Ukraine
+Region:Europe,Region,Europe
+Type:Air,Type,Air
+Subtype:Air,Subtype,Air
+Event:2023-0014-SEN,Event,Road
+Country:Senegal,Country,Senegal
+Type:Road,Type,Road
+Subtype:Road,Subtype,Road
+Event:2023-0015-CHN,Event,Road
+Country:China,Country,China
+Event:2023-0016-KEN,Event,Road
+Country:Kenya,Country,Kenya
+Event:2023-0017-UGA,Event,Road
+Country:Uganda,Country,Uganda
+Event:2023-0018-UGA,Event,Stampede
+Type:Miscellaneous accident (General),Type,Miscellaneous accident (General)
+Subtype:Miscellaneous accident (General),Subtype,Miscellaneous accident (General)
+Event:2023-0019-AFG,Event,Extreme temperature
+Country:Afghanistan,Country,Afghanistan
+Subgroup:Meteorological,Subgroup,Meteorological
+Type:Extreme temperature,Type,Extreme temperature
+Subtype:Cold wave,Subtype,Cold wave
+Event:2023-0020-MDG,Event,Tropical cyclone 'Cheneso'
+Country:Madagascar,Country,Madagascar
+Type:Storm,Type,Storm
+Subtype:Tropical cyclone,Subtype,Tropical cyclone
+Event:2023-0021-CHN,Event,Mass movement (wet)
+Subtype:Avalanche (wet),Subtype,Avalanche (wet)
+Event:2023-0022-SRB,Event,Flood
+Country:Serbia,Country,Serbia
+Subtype:Riverine flood,Subtype,Riverine flood
+Event:2023-0023-COL,Event,Flood
+Event:2023-0028-BRA,Event,Flood
+Country:Brazil,Country,Brazil
+Event:2023-0032-USA,Event,Storm
+Country:United States of America,Country,United States of America
+Subtype:Tornado,Subtype,Tornado
+Event:2023-0034-SYR,Event,Building
+Country:Syrian Arab Republic,Country,Syrian Arab Republic
+Type:Collapse (Miscellaneous),Type,Collapse (Miscellaneous)
+Subtype:Collapse (Miscellaneous),Subtype,Collapse (Miscellaneous)
+Event:2023-0035-THA,Event,Road
+Country:Thailand,Country,Thailand
+Event:2023-0036-KOR,Event,Slum
+Country:Republic of Korea,Country,Republic of Korea
+Event:2023-0037-DZA,Event,Miscellaneous accident (General)
+Country:Algeria,Country,Algeria
+Event:2023-0038-AUS,Event,Flood
+Country:Australia,Country,Australia
+Region:Oceania,Region,Oceania
+Event:2023-0039-NPL,Event,Air
+Country:Nepal,Country,Nepal
+Event:2023-0041-IDN,Event,Flood
+Event:2023-0041-MYS,Event,Flood
+Country:Malaysia,Country,Malaysia
+Event:2023-0044-IDN,Event,Flood
+Event:2023-0046-NZL,Event,Flood
+Country:New Zealand,Country,New Zealand
+Event:2023-0047-IRN,Event,Earthquake
+Event:2023-0050-CHL,Event,Wildfire
+Country:Chile,Country,Chile
+Subgroup:Climatological,Subgroup,Climatological
+Type:Wildfire,Type,Wildfire
+Subtype:Wildfire (General),Subtype,Wildfire (General)
+Event:2023-0052-CAN,Event,Extreme temperature
+Country:Canada,Country,Canada
+Subtype:Severe winter conditions,Subtype,Severe winter conditions
+Event:2023-0052-USA,Event,Extreme temperature
+Event:2023-0054-SYR,Event,Earthquake
+Event:2023-0054-TUR,Event,Earthquake
+Country:Türkiye,Country,Türkiye
+Event:2023-0055-BOL,Event,Flood
+Country:Bolivia (Plurinational State of),Country,Bolivia (Plurinational State of)
+Event:2023-0056-ZMB,Event,Flood
+Country:Zambia,Country,Zambia
+Event:2023-0057-PAK,Event,Water
+Country:Pakistan,Country,Pakistan
+Event:2023-0058-BEN,Event,Road
+Country:Benin,Country,Benin
+Event:2023-0059-CUB,Event,'Migrants'
+Country:Cuba,Country,Cuba
+Event:2023-0060-PER,Event,Road
+Country:Peru,Country,Peru
+Event:2023-0061-PAK,Event,Road
+Event:2023-0062-TCD,Event,Road
+Country:Chad,Country,Chad
+Event:2023-0063-JPN,Event,Cargo 'Jin Tian'
+Country:Japan,Country,Japan
+Event:2023-0064-IND,Event,Building
+Country:India,Country,India
+Event:2023-0065-CHN,Event,Road
+Event:2023-0066-PER,Event,Mass movement (wet)
+Event:2023-0068-ZMB,Event,Cholera
+Subgroup:Biological,Subgroup,Biological
+Type:Epidemic,Type,Epidemic
+Subtype:Bacterial disease,Subtype,Bacterial disease
+Event:2023-0069-GNB,Event,Fire (Miscellaneous)
+Country:Guinea-Bissau,Country,Guinea-Bissau
+Event:2023-0073-IDN,Event,Earthquake
+Event:2023-0074-BFA,Event,Gold mine
+Country:Burkina Faso,Country,Burkina Faso
+Subgroup:Industrial accident,Subgroup,Industrial accident
+Type:Collapse (Industrial),Type,Collapse (Industrial)
+Subtype:Collapse (Industrial),Subtype,Collapse (Industrial)
+Event:2023-0075-AUT,Event,Mass movement (wet)
+Country:Austria,Country,Austria
+Event:2023-0075-CHE,Event,Mass movement (wet)
+Country:Switzerland,Country,Switzerland
+Event:2023-0075-ITA,Event,Mass movement (wet)
+Country:Italy,Country,Italy
+Event:2023-0078-MOZ,Event,Flood
+Country:Mozambique,Country,Mozambique
+Event:2023-0079-NZL,Event,Cyclone 'Gabrielle'
+Event:2023-0080-ZAF,Event,Flood
+Country:South Africa,Country,South Africa
+Event:2023-0081-ZAF,Event,Road
+Event:2023-0084-PAN,Event,Migrants
+Country:Panama,Country,Panama
+Event:2023-0087-GNQ,Event,Marburg disease
+Country:Equatorial Guinea,Country,Equatorial Guinea
+Subtype:Viral disease,Subtype,Viral disease
+Event:2023-0091-SYR,Event,Earthquake
+Event:2023-0091-TUR,Event,Earthquake
+Event:2023-0092-BRA,Event,Flood
+Event:2023-0094-PHL,Event,Flood
+Event:2023-0095-MDG,Event,Tropical cyclone 'Freddy'
+Event:2023-0095-MOZ,Event,Tropical cyclone 'Freddy'
+Event:2023-0095-MUS,Event,Tropical cyclone 'Freddy'
+Country:Mauritius,Country,Mauritius
+Event:2023-0095-MWI,Event,Tropical cyclone 'Freddy'
+Country:Malawi,Country,Malawi
+Event:2023-0095-REU,Event,Tropical cyclone 'Freddy'
+Country:Réunion,Country,Réunion
+Event:2023-0095-ZWE,Event,Tropical cyclone 'Freddy'
+Country:Zimbabwe,Country,Zimbabwe
+Event:2023-0097-CHN,Event,Coal mine
+Event:2023-0098-NAM,Event,Flood
+Country:Namibia,Country,Namibia
+Event:2023-0102-PHL,Event,Flood
+Event:2023-0105-ITA,Event,Migrants
+Event:2023-0106-DZA,Event,Road
+Event:2023-0107-SYR,Event,Earthquake
+Event:2023-0107-TUR,Event,Earthquake
+Event:2023-0110-ZMB,Event,Flood
+Subtype:Flash flood,Subtype,Flash flood
+Event:2023-0111-LBN,Event,Extreme temperature
+Country:Lebanon,Country,Lebanon
+Event:2023-0112-NGA,Event,Pipeline
+Type:Explosion (Industrial),Type,Explosion (Industrial)
+Subtype:Explosion (Industrial),Subtype,Explosion (Industrial)
+Event:2023-0113-GRC,Event,Rail
+Country:Greece,Country,Greece
+Type:Rail,Type,Rail
+Subtype:Rail,Subtype,Rail
+Event:2023-0116-PRY,Event,Flood
+Country:Paraguay,Country,Paraguay
+Event:2023-0119-VUT,Event,Tropical cyclone 'Judy'
+Country:Vanuatu,Country,Vanuatu
+Event:2023-0120-MYS,Event,Flood
+Event:2023-0122-USA,Event,Storm
+Subtype:Storm (General),Subtype,Storm (General)
+Event:2023-0123-IDN,Event,Mass movement (wet)
+Event:2023-0125-BRA,Event,Flood
+Event:2023-0126-ECU,Event,Flood
+Country:Ecuador,Country,Ecuador
+Event:2023-0127-IDN,Event,Storm
+Subtype:Severe weather,Subtype,Severe weather
+Event:2023-0128-VUT,Event,Tropical cyclone 'Kevin'
+Event:2023-0129-AUS,Event,Flood
+Event:2023-0130-CIV,Event,Road
+Country:Côte dIvoire,Country,Côte dIvoire
+Event:2023-0131-PER,Event,Road
+Event:2023-0132-BGD,Event,Refugee Camp
+Country:Bangladesh,Country,Bangladesh
+Event:2023-0133-IDN,Event,Fuel depot
+Type:Fire (Industrial),Type,Fire (Industrial)
+Subtype:Fire (Industrial),Subtype,Fire (Industrial)
+Event:2023-0135-USA,Event,Storm
+Event:2023-0137-PER,Event,Flood
+Event:2023-0138-AUS,Event,Flood
+Event:2023-0140-SSD,Event,Cholera
+Country:South Sudan,Country,South Sudan
+Event:2023-0141-TUR,Event,Flood
+Event:2023-0145-COL,Event,Coal mine
+Event:2023-0146-IRN,Event,Fire celebration
+Event:2023-0147-ITA,Event,Migrants
+Event:2023-0148-MDG,Event,Migrants
+Event:2023-0149-GAB,Event,Ferry 'Esther Miracle'
+Country:Gabon,Country,Gabon
+Event:2023-0150-TUN,Event,Migrants
+Country:Tunisia,Country,Tunisia
+Event:2023-0152-BGD,Event,Building
+Type:Explosion (Miscellaneous),Type,Explosion (Miscellaneous)
+Subtype:Explosion (Miscellaneous),Subtype,Explosion (Miscellaneous)
+Event:2023-0154-BGD,Event,Road
+Event:2023-0155-ECU,Event,Earthquake
+Event:2023-0155-PER,Event,Earthquake
+Event:2023-0156-AFG,Event,Earthquake
+Event:2023-0156-PAK,Event,Earthquake
+Event:2023-0157-BRA,Event,Flood
+Event:2023-0159-PAK,Event,Flood
+Event:2023-0160-SYR,Event,Flood
+Event:2023-0161-IND,Event,Storm
+Event:2023-0166-NGA,Event,Diphteria
+Event:2023-0169-IRN,Event,Earthquake
+Event:2023-0172-SOM,Event,Flood
+Country:Somalia,Country,Somalia
+Event:2023-0173-PAK,Event,Flood
+Event:2023-0175-BOL,Event,Flood
+Event:2023-0176-USA,Event,Storm
+Event:2023-0177-ECU,Event,Mass movement (wet)
+Event:2023-0178-BOL,Event,Flood
+Event:2023-0179-BRA,Event,Flood
+Event:2023-0180-ZAF,Event,Flood
+Event:2023-0182-MEX,Event,Immigration processing facility
+Country:Mexico,Country,Mexico
+Event:2023-0184-SAU,Event,Road
+Country:Saudi Arabia,Country,Saudi Arabia
+Event:2023-0185-TUN,Event,Migrants
+Event:2023-0186-NGA,Event,Road
+Event:2023-0187-ETH,Event,Flood
+Country:Ethiopia,Country,Ethiopia
+Event:2023-0187-KEN,Event,Flood
+Event:2023-0188-PHL,Event,Ferry 'Lady Mary 3'
+Event:2023-0189-PNG,Event,Earthquake
+Country:Papua New Guinea,Country,Papua New Guinea
+Event:2023-0190-PAK,Event,Stampede
+Event:2023-0192-USA,Event,Storm
+Event:2023-0193-COD,Event,Mass movement (wet)
+Country:Democratic Republic of the Congo,Country,Democratic Republic of the Congo
+Event:2023-0195-IND,Event,Temple
+Event:2023-0196-MAR,Event,Road
+Country:Morocco,Country,Morocco
+Event:2023-0200-COL,Event,Flood
+Event:2023-0201-SOM,Event,Acute watery Diarrhoea/cholera
+Event:2023-0203-BRA,Event,Flood
+Event:2023-0204-BRA,Event,Flood
+Event:2023-0206-USA,Event,Storm
+Event:2023-0208-PAK,Event,Flood
+Event:2023-0212-BLR,Event,Flood
+Country:Belarus,Country,Belarus
+Event:2023-0212-LVA,Event,Flood
+Country:Latvia,Country,Latvia
+Event:2023-0214-NZL,Event,Storm
+Event:2023-0215-KOR,Event,Wildfire
+Event:2023-0217-TUN,Event,Migrants
+Event:2023-0218-MAR,Event,Migrants
+Event:2023-0219-ITA,Event,Migrants
+Event:2023-0221-PER,Event,Flood
+Event:2023-0222-BDI,Event,Flood
+Country:Burundi,Country,Burundi
+Event:2023-0225-USA,Event,Flood
+Event:2023-0226-TZA,Event,Flood
+Country:United Republic of Tanzania,Country,United Republic of Tanzania
+Event:2023-0227-IDN,Event,Mass movement (wet)
+Event:2023-0229-IRN,Event,Storm
+Subtype:Sand/Dust storm,Subtype,Sand/Dust storm
+Event:2023-0229-IRQ,Event,Storm
+Country:Iraq,Country,Iraq
+Event:2023-0230-CHN,Event,Hospital
+Event:2023-0233-BRA,Event,Storm
+Event:2023-0234-IND,Event,Extreme temperature
+Subtype:Heat wave,Subtype,Heat wave
+Event:2023-0235-ARE,Event,Residential building
+Country:United Arab Emirates,Country,United Arab Emirates
+Event:2023-0236-TZA,Event,Flood
+Event:2023-0237-TJK,Event,Earthquake
+Country:Tajikistan,Country,Tajikistan
+Event:2023-0238-PER,Event,Storm 'Yaku'
+Event:2023-0239-USA,Event,Storm
+Event:2023-0240-KHM,Event,Storm
+Country:Cambodia,Country,Cambodia
+Subtype:Lightning/Thunderstorms,Subtype,Lightning/Thunderstorms
+Event:2023-0242-UKR,Event,Flood
+Event:2023-0246-PHL,Event,Tropical Depression 'Amang'
+Event:2023-0247-AGO,Event,Flood
+Country:Angola,Country,Angola
+Event:2023-0248-MMR,Event,Storm
+Country:Myanmar,Country,Myanmar
+Event:2023-0251-YEM,Event,Stampede
+Country:Yemen,Country,Yemen
+Event:2023-0252-TUR,Event,Storm
+Event:2023-0253-USA,Event,Storm
+Event:2023-0254-BGD,Event,Storm
+Event:2023-0255-THA,Event,Storm
+Event:2023-0256-LKA,Event,Storm
+Country:Sri Lanka,Country,Sri Lanka
+Event:2023-0257-BRA,Event,Flood
+Event:2023-0259-KEN,Event,Flood
+Event:2023-0262-UGA,Event,Flood
+Event:2023-0263-VNM,Event,Flood
+Country:Viet Nam,Country,Viet Nam
+Event:2023-0266-PAK,Event,Flood
+Event:2023-0267-RWA,Event,Flood
+Country:Rwanda,Country,Rwanda
+Event:2023-0268-CHN,Event,Earthquake
+Event:2023-0270-ITA,Event,Flood
+Event:2023-0272-CAN,Event,Flood
+Event:2023-0274-CHN,Event,Chemical factory
+Event:2023-0275-EGY,Event,Road
+Country:Egypt,Country,Egypt
+Event:2023-0279-JPN,Event,Earthquake
+Event:2023-0280-CAN,Event,Wildfire
+Subtype:Forest fire,Subtype,Forest fire
+Event:2023-0281-COD,Event,Flood
+Event:2023-0282-PER,Event,Gold mine
+Event:2023-0283-IND,Event,Water
+Event:2023-0285-CHN,Event,Flood
+Event:2023-0287-GTM,Event,Mount Fuego
+Country:Guatemala,Country,Guatemala
+Type:Volcanic activity,Type,Volcanic activity
+Subtype:Ash fall,Subtype,Ash fall
+Event:2023-0288-USA,Event,Storm
+Event:2023-0289-RUS,Event,Wildfire
+Country:Russian Federation,Country,Russian Federation
+Event:2023-0290-SLE,Event,Storm
+Country:Sierra Leone,Country,Sierra Leone
+Event:2023-0291-AFG,Event,Flood
+Event:2023-0293-CZE,Event,Flood
+Country:Czechia,Country,Czechia
+Event:2023-0293-ITA,Event,Flood
+Event:2023-0294-BGD,Event,Cyclone 'Mocha'
+Event:2023-0294-IND,Event,Cyclone 'Mocha'
+Event:2023-0294-MMR,Event,Cyclone 'Mocha'
+Event:2023-0295-SOM,Event,Flood
+Event:2023-0297-MNG,Event,Extreme temperature
+Country:Mongolia,Country,Mongolia
+Event:2023-0300-GUM,Event,Typhoon 'Mawar'
+Country:Guam,Country,Guam
+Event:2023-0300-JPN,Event,Typhoon 'Mawar'
+Event:2023-0300-PHL,Event,Typhoon 'Mawar'
+Event:2023-0300-TWN,Event,Typhoon 'Mawar'
+Country:Taiwan (Province of China),Country,Taiwan (Province of China)
+Event:2023-0303-AUS,Event,Road
+Event:2023-0305-CMR,Event,Road
+Country:Cameroon,Country,Cameroon
+Event:2023-0306-PAK,Event,Mass movement (wet)
+Event:2023-0309-AUS,Event,Fishing boat 'Lu Peng Yuan'
+Event:2023-0310-SLV,Event,Stampede
+Country:El Salvador,Country,El Salvador
+Event:2023-0311-MWI,Event,Road
+Event:2023-0312-CMR,Event,Road
+Event:2023-0313-NGA,Event,Water
+Event:2023-0314-ZMB,Event,Road
+Event:2023-0315-MEX,Event,Road
+Event:2023-0319-HRV,Event,Flood
+Country:Croatia,Country,Croatia
+Event:2023-0321-BIH,Event,Flood
+Country:Bosnia and Herzegovina,Country,Bosnia and Herzegovina
+Event:2023-0323-FRA,Event,Earthquake
+Country:France,Country,France
+Event:2023-0324-USA,Event,Storm
+Event:2023-0325-BRA,Event,Flood
+Event:2023-0326-NPL,Event,Flood
+Event:2023-0328-IND,Event,Extreme temperature
+Event:2023-0328-PAK,Event,Extreme temperature
+Event:2023-0330-IND,Event,Flood
+Event:2023-0331-IND,Event,Cyclone 'Biparjoy'
+Event:2023-0331-PAK,Event,Cyclone 'Biparjoy'
+Event:2023-0332-USA,Event,Storm
+Event:2023-0334-KAZ,Event,Wildfire
+Country:Kazakhstan,Country,Kazakhstan
+Event:2023-0337-CUB,Event,Flood
+Event:2023-0339-HTI,Event,Flood
+Country:Haiti,Country,Haiti
+Event:2023-0341-CHN,Event,Flood
+Event:2023-0342-ECU,Event,Flood
+Event:2023-0352-ZAF,Event,Storm
+Event:2023-0353-IRN,Event,Storm
+Event:2023-0354-PAK,Event,Flood
+Event:2023-0355-PHL,Event,Mount 'Mayon'
+Subtype:Lava flow,Subtype,Lava flow
+Event:2023-0357-CHN,Event,Mass movement (wet)
+Event:2023-0359-IND,Event,Flood
+Event:2023-0360-BRB,Event,Tropical storm 'Bret'
+Country:Barbados,Country,Barbados
+Event:2023-0360-VCT,Event,Tropical storm 'Bret'
+Country:Saint Vincent and the Grenadines,Country,Saint Vincent and the Grenadines
+Event:2023-0362-CHL,Event,Flood
+Event:2023-0364-USA,Event,Extreme temperature
+Event:2023-0365-GTM,Event,Flood
+Event:2023-0366-IDN,Event,Storm
+Event:2023-0368-GHA,Event,Flood
+Country:Ghana,Country,Ghana
+Event:2023-0370-USA,Event,Storm
+Event:2023-0378-IDN,Event,Earthquake
+Event:2023-0384-YEM,Event,Flood
+Event:2023-0385-PER,Event,Dengue
+Event:2023-0389-DOM,Event,Flood
+Country:Dominican Republic,Country,Dominican Republic
+Event:2023-0391-VEN,Event,Flood
+Country:Venezuela (Bolivarian Republic of),Country,Venezuela (Bolivarian Republic of)
+Event:2023-0396-IND,Event,Road
+Event:2023-0397-KEN,Event,Road
+Event:2023-0400-ITA,Event,Migrants
+Event:2023-0401-CHN,Event,Restaurant
+Event:2023-0402-CAN,Event,Road
+Event:2023-0403-GRC,Event,Migrants
+Event:2023-0404-NGA,Event,Water
+Event:2023-0405-MLI,Event,Road
+Country:Mali,Country,Mali
+Event:2023-0406-IND,Event,Rail
+Event:2023-0408-SRB,Event,Flood
+Event:2023-0409-ARM,Event,Storm
+Subtype:Hail,Subtype,Hail
+Event:2023-0410-GEO,Event,Flood
+Country:Georgia,Country,Georgia
+Event:2023-0411-ARG,Event,Flood
+Country:Argentina,Country,Argentina
+Event:2023-0412-GAB,Event,Storm
+Event:2023-0413-JPN,Event,Flood
+Event:2023-0417-CHN,Event,Flood
+Event:2023-0418-THA,Event,Flood
+Event:2023-0421-NPL,Event,Dengue
+Event:2023-0426-USA,Event,Flood
+Event:2023-0428-IND,Event,Flood
+Event:2023-0428-PAK,Event,Flood
+Event:2023-0429-MEX,Event,Road
+Event:2023-0430-ZAF,Event,Gaz leak
+Event:2023-0434-BRA,Event,Flood
+Event:2023-0435-MNG,Event,Flood
+Event:2023-0436-LKA,Event,Storm
+Event:2023-0437-IDN,Event,Flood
+Event:2023-0440-KOR,Event,Flood
+Event:2023-0444-GRC,Event,Kallithea and Dervenochoria wildfires
+Event:2023-0450-PHL,Event,Tropical cyclone 'Talim'
+Event:2023-0450-VNM,Event,Tropical cyclone 'Talim'
+Event:2023-0451-COL,Event,Mass movement (wet)
+Event:2023-0454-DZA,Event,Road
+Event:2023-0457-NER,Event,Flood
+Country:Niger,Country,Niger
+Event:2023-0458-ITA,Event,Storm
+Event:2023-0459-IND,Event,Mass movement (wet)
+Event:2023-0460-BIH,Event,Storm
+Event:2023-0460-HRV,Event,Storm
+Event:2023-0460-SRB,Event,Storm
+Event:2023-0460-SVK,Event,Storm
+Country:Slovakia,Country,Slovakia
+Event:2023-0460-SVN,Event,Storm
+Country:Slovenia,Country,Slovenia
+Event:2023-0462-AFG,Event,Flood
+Event:2023-0462-PAK,Event,Flood
+Event:2023-0464-CHN,Event,Tropical cyclone 'Doksuri' (Egay)
+Event:2023-0464-PHL,Event,Tropical cyclone 'Doksuri' (Egay)
+Event:2023-0464-TWN,Event,Tropical cyclone 'Doksuri' (Egay)
+Event:2023-0465-CAN,Event,Flood
+Event:2023-0466-CHE,Event,Storm
+Event:2023-0466-DEU,Event,Storm
+Country:Germany,Country,Germany
+Event:2023-0466-ITA,Event,Storm
+Event:2023-0466-ROU,Event,Storm
+Country:Romania,Country,Romania
+Event:2023-0466-SRB,Event,Storm
+Event:2023-0467-CMR,Event,Building
+Event:2023-0468-DZA,Event,Wildfire
+Event:2023-0469-IDN,Event,Water
+Event:2023-0470-SEN,Event,Water
+Event:2023-0471-MAR,Event,Migrants
+Event:2023-0472-RWA,Event,Water
+Event:2023-0473-BGD,Event,Dengue
+Event:2023-0478-SEN,Event,Road
+Event:2023-0484-PHL,Event,Water
+Event:2023-0485-BRA,Event,Explosion (Industrial)
+Event:2023-0486-IND,Event,Flood
+Event:2023-0487-RUS,Event,Storm
+Event:2023-0488-VNM,Event,Flood
+Event:2023-0489-ZAF,Event,Kennedy Road informal settlement
+Event:2023-0490-JPN,Event,Tropical cyclone 'Khanoun'
+Event:2023-0490-KOR,Event,Tropical cyclone 'Khanoun'
+Event:2023-0490-RUS,Event,Tropical cyclone 'Khanoun'
+Event:2023-0493-UGA,Event,Water
+Event:2023-0494-IND,Event,Crane
+Event:2023-0495-LAO,Event,Flood
+Country:Lao People's Democratic Republic,Country,Lao People's Democratic Republic
+Event:2023-0497-SVN,Event,Flood
+Event:2023-0503-CHN,Event,Flood
+Event:2023-0507-PRT,Event,Wildfire
+Country:Portugal,Country,Portugal
+Event:2023-0510-MNG,Event,Flood
+Event:2023-0512-BGD,Event,Flood
+Event:2023-0516-CHN,Event,Flood
+Event:2023-0517-MMR,Event,Flood
+Event:2023-0518-VNM,Event,Flood
+Event:2023-0521-GEO,Event,Mass movement (wet)
+Event:2023-0522-CHN,Event,Earthquake
+Event:2023-0524-USA,Event,'Lahaina' wildfire
+Event:2023-0526-JPN,Event,Typhoon 'Lan'
+Event:2023-0528-CHN,Event,Storm
+Event:2023-0529-FRA,Event,Wildfire
+Event:2023-0530-MMR,Event,Jade mine
+Event:2023-0534-USA,Event,Gray fire and the Oregon fire
+Event:2023-0535-GRC,Event,Wildfire
+Event:2023-0539-CHL,Event,Flood
+Event:2023-0542-PAK,Event,Flood
+Event:2023-0547-IND,Event,Mass movement (wet)
+Event:2023-0548-IND,Event,Mass movement (wet)
+Event:2023-0551-CHN,Event,Flood
+Event:2023-0559-DOM,Event,Tropical storm 'Franklin'
+Event:2023-0562-IRN,Event,Road
+Event:2023-0563-MDG,Event,Stampede
+Event:2023-0564-COG,Event,"Cholera, shigellosis and salmonellosis"
+Country:Congo,Country,Congo
+Event:2023-0565-CUB,Event,Hurricane 'Idalia'
+Event:2023-0565-USA,Event,Hurricane 'Idalia'
+Event:2023-0568-CHN,Event,Typhoon 'Saola'
+Event:2023-0568-HKG,Event,Typhoon 'Saola'
+"Country:China, Hong Kong Special Administrative Region",Country,"China, Hong Kong Special Administrative Region"
+Event:2023-0568-PHL,Event,Typhoon 'Saola'
+Event:2023-0570-TJK,Event,Flood
+Event:2023-0571-PAK,Event,Flood
+Event:2023-0577-KGZ,Event,Measles and Rubella
+Country:Kyrgyzstan,Country,Kyrgyzstan
+Event:2023-0578-GIN,Event,Flood
+Country:Guinea,Country,Guinea
+Event:2023-0579-MRT,Event,Flood
+Country:Mauritania,Country,Mauritania
+Event:2023-0580-DZA,Event,Flood
+Event:2023-0581-ESP,Event,Flood
+Country:Spain,Country,Spain
+Event:2023-0582-BGR,Event,Flood
+Country:Bulgaria,Country,Bulgaria
+Event:2023-0582-GRC,Event,Flood
+Event:2023-0582-TUR,Event,Flood
+Event:2023-0583-IRQ,Event,Road
+Event:2023-0584-ZAF,Event,Building
+Event:2023-0585-PHL,Event,House
+Event:2023-0588-IND,Event,Railway bridge
+Event:2023-0589-MEX,Event,Migrants
+Event:2023-0590-TUN,Event,Migrants
+Event:2023-0591-CHN,Event,Coal mine
+Event:2023-0592-DOM,Event,Commercial area
+Event:2023-0593-PER,Event,Road
+Event:2023-0594-PAK,Event,Road
+Event:2023-0595-MYS,Event,Air
+Event:2023-0596-MMR,Event,Migrants
+Event:2023-0597-RUS,Event,Factory
+Event:2023-0598-FRA,Event,Holiday cottage
+Event:2023-0599-TUN,Event,Migrants
+Event:2023-0600-MAR,Event,Earthquake
+Event:2023-0601-IDN,Event,Flood
+Event:2023-0603-ARG,Event,Storm
+Event:2023-0603-BRA,Event,Storm
+Event:2023-0606-IND,Event,Storm
+Event:2023-0609-JPN,Event,Tropical storm 'Yun-Yeung'
+Event:2023-0610-LBY,Event,Storm 'Daniel'
+Country:Libya,Country,Libya
+Event:2023-0611-NGA,Event,Water
+Event:2023-0612-NGA,Event,Water
+Event:2023-0614-CHN,Event,Chemical factory
+Type:Gas leak,Type,Gas leak
+Subtype:Gas leak,Subtype,Gas leak
+Event:2023-0615-CHN,Event,Flood
+Event:2023-0615-HKG,Event,Flood
+Event:2023-0619-ZAF,Event,Flood
+Event:2023-0620-UZB,Event,Warehouse
+Country:Uzbekistan,Country,Uzbekistan
+Event:2023-0621-GRC,Event,Storm 'Elias'
+Event:2023-0622-IND,Event,Glacial lake outburst flood
+Type:Glacial lake outburst flood,Type,Glacial lake outburst flood
+Subtype:Glacial lake outburst flood,Subtype,Glacial lake outburst flood
+Event:2023-0623-CHN,Event,Typhoon 'Koinu'
+Event:2023-0623-HKG,Event,Typhoon 'Koinu'
+Event:2023-0623-PHL,Event,Typhoon 'Koinu'
+Event:2023-0623-TWN,Event,Typhoon 'Koinu'
+Event:2023-0625-ITA,Event,Road
+Event:2023-0626-NGA,Event,Refinery
+Event:2023-0628-NGA,Event,Water
+Event:2023-0630-MEX,Event,Migrants
+Event:2023-0631-MEX,Event,Migrants
+Event:2023-0633-MMR,Event,Flood
+Event:2023-0634-CMR,Event,Mass movement (wet)
+Event:2023-0635-VNM,Event,Flood
+Event:2023-0636-AFG,Event,Earthquake
+Event:2023-0638-ESP,Event,Dancing club
+Event:2023-0640-BRA,Event,Plane 'EMB-110'
+Event:2023-0641-ZAF,Event,Road
+Event:2023-0642-PER,Event,Road
+Event:2023-0644-BEN,Event,Illegal oil depot
+Event:2023-0645-CHN,Event,Coal mine
+Event:2023-0647-MEX,Event,Flood
+Event:2023-0649-IRQ,Event,Fire (Miscellaneous)
+Event:2023-0651-USA,Event,Flood
+Event:2023-0652-VNM,Event,Building
+Event:2023-0653-NPL,Event,Earthquake
+Event:2023-0654-LKA,Event,Flood
+Event:2023-0656-USA,Event,Storm
+Event:2023-0659-IRN,Event,Storm
+Event:2023-0660-AFG,Event,Earthquake
+Event:2023-0662-ARG,Event,Wildfire
+Event:2023-0663-BRA,Event,Flood
+Event:2023-0671-COD,Event,Mass movement (wet)
+Event:2023-0672-NGA,Event,Flood
+Event:2023-0675-MEX,Event,Tropical storm 'Otis'
+Event:2023-0680-SLB,Event,Tropical cyclone 'Lola'
+Country:Solomon Islands,Country,Solomon Islands
+Event:2023-0680-VUT,Event,Tropical cyclone 'Lola'
+Event:2023-0683-SOM,Event,Flood
+Event:2023-0685-YEM,Event,Tropical cyclone 'Tej'
+Event:2023-0686-BGD,Event,Tropical cyclone 'Hamoon'
+Event:2023-0690-GHA,Event,Flood
+Event:2023-0691-NGA,Event,Flood
+Event:2023-0703-HND,Event,Tropical storm 'Pilar'
+Country:Honduras,Country,Honduras
+Event:2023-0703-SLV,Event,Tropical storm 'Pilar'
+Event:2023-0719-ZWE,Event,Cholera
+Event:2023-0720-CRI,Event,Dengue
+Country:Costa Rica,Country,Costa Rica
+Event:2023-0721-KEN,Event,Flood
+Event:2023-0722-NPL,Event,Earthquake
+Event:2023-0724-BEL,Event,Storm 'Ciaran'
+Country:Belgium,Country,Belgium
+Subtype:Extra-tropical storm,Subtype,Extra-tropical storm
+Event:2023-0724-DEU,Event,Storm 'Ciaran'
+Event:2023-0724-ESP,Event,Storm 'Ciaran'
+Event:2023-0724-FRA,Event,Storm 'Ciaran'
+Event:2023-0724-GBR,Event,Storm 'Ciaran'
+Country:United Kingdom of Great Britain and Northern Ireland,Country,United Kingdom of Great Britain and Northern Ireland
+Event:2023-0724-ITA,Event,Storm 'Ciaran'
+Event:2023-0724-NLD,Event,Storm 'Ciaran'
+Country:Netherlands (Kingdom of the),Country,Netherlands (Kingdom of the)
+Event:2023-0725-ESP,Event,Storm 'Domingos'
+Event:2023-0725-FRA,Event,Storm 'Domingos'
+Event:2023-0727-ESP,Event,Wildfire
+Event:2023-0728-ETH,Event,Flood
+Event:2023-0729-MYS,Event,Flood
+Event:2023-0730-CHL,Event,Slums
+Event:2023-0731-IRN,Event,Rehabilitation center
+Event:2023-0732-HND,Event,Storm
+Event:2023-0733-LKA,Event,Storm
+Event:2023-0734-BEL,Event,Flood
+Event:2023-0734-FRA,Event,Flood
+Event:2023-0739-PHL,Event,Earthquake
+Event:2023-0741-SOM,Event,Flood
+Event:2023-0746-MNG,Event,Storm
+Subtype:Blizzard/Winter storm,Subtype,Blizzard/Winter storm
+Event:2023-0747-BRA,Event,Storm
+Event:2023-0749-ISL,Event,Earthquake
+Country:Iceland,Country,Iceland
+Event:2023-0753-PRY,Event,Flood
+Event:2023-0754-VNM,Event,Storm
+Event:2023-0756-CHN,Event,Buidling
+Event:2023-0757-YEM,Event,Migrants
+Event:2023-0758-IND,Event,Road
+Event:2023-0760-BOL,Event,Wildfire
+Event:2023-0761-BGR,Event,Storm 'Frederico
+Event:2023-0761-FRA,Event,Storm 'Frederico
+Event:2023-0761-TUR,Event,Storm 'Frederico
+Event:2023-0762-PHL,Event,Earthquake
+Event:2023-0763-DOM,Event,Flood
+Event:2023-0763-HTI,Event,Flood
+Event:2023-0764-GTM,Event,Mass movement (wet)
+Event:2023-0769-COD,Event,Flood
+Event:2023-0770-URY,Event,Flood
+Country:Uruguay,Country,Uruguay
+Event:2023-0772-COG,Event,Stampede
+Event:2023-0773-PER,Event,Road
+Event:2023-0774-MEX,Event,Road
+Event:2023-0775-SUR,Event,Gold mine
+Country:Suriname,Country,Suriname
+Event:2023-0777-BRA,Event,Flood
+Event:2023-0781-ZMB,Event,Copper mine
+Event:2023-0783-BOL,Event,Flood
+Event:2023-0784-LKA,Event,Storm
+Event:2023-0785-USA,Event,Flood
+Event:2023-0787-SYC,Event,Explosives warehouse CCCL
+Country:Seychelles,Country,Seychelles
+Event:2023-0791-PHL,Event,Earthquake
+Event:2023-0792-IND,Event,Tropical storm 'Michaung'
+Event:2023-0793-VEN,Event,Road
+Event:2023-0794-PHL,Event,Road
+Event:2023-0795-HND,Event,Road
+Event:2023-0797-TZA,Event,Mass movement (wet)
+Event:2023-0799-THA,Event,Road
+Event:2023-0802-PHL,Event,Flood
+Event:2023-0803-IDN,Event,Flood
+Event:2023-0804-BGR,Event,Storm 'Bettina'
+Event:2023-0804-DEU,Event,Storm 'Bettina'
+Event:2023-0804-MDA,Event,Storm 'Bettina'
+Country:Republic of Moldova,Country,Republic of Moldova
+Event:2023-0804-ROU,Event,Storm 'Bettina'
+Event:2023-0804-RUS,Event,Storm 'Bettina'
+Event:2023-0804-TUR,Event,Storm 'Bettina'
+Event:2023-0804-UKR,Event,Storm 'Bettina'
+Event:2023-0805-PAK,Event,Mall
+Event:2023-0806-ZAF,Event,Mine 'Impala Platinium'
+Type:Industrial accident (General),Type,Industrial accident (General)
+Subtype:Industrial accident (General),Subtype,Industrial accident (General)
+Event:2023-0807-TZA,Event,Flood
+Event:2023-0809-BDI,Event,Flood
+Event:2023-0810-COL,Event,Flood
+Event:2023-0811-FJI,Event,Tropical cyclone 'Mal'
+Country:Fiji,Country,Fiji
+Event:2023-0812-IND,Event,Storm
+Event:2023-0814-PER,Event,Flood
+Event:2023-0815-AUS,Event,Flood
+Event:2023-0820-IDN,Event,Mount Marapi
+Event:2023-0824-JOR,Event,Extreme temperature
+Country:Jordan,Country,Jordan
+Event:2023-0825-CAF,Event,Storm
+Country:Central African Republic,Country,Central African Republic
+Event:2023-0826-USA,Event,Storm
+Event:2023-0827-COD,Event,Mass movement (wet)
+Event:2023-0828-AUS,Event,Cyclone 'Jasper'
+Event:2023-0829-CHL,Event,Wildfire
+Event:2023-0831-ARG,Event,Storm
+Event:2023-0831-URY,Event,Storm
+Event:2023-0837-GIN,Event,Oil depot
+Event:2023-0838-CHN,Event,Earthquake
+Event:2023-0839-CHN,Event,Underground
+Event:2023-0840-LBY,Event,Migrants
+Event:2023-0842-PHL,Event,Tropical storm 'Jelawat' (Kabayan)
+Event:2023-0843-USA,Event,Storm
+Event:2023-0844-AGO,Event,Flood
+Event:2023-0846-IND,Event,Flood
+Event:2023-0847-ZAF,Event,Storm
+Event:2023-0848-CHN,Event,Coal mine
+Event:2023-0851-IDN,Event,Volcano 'Lewotobi Laki-Laki'
+Event:2023-0852-NIC,Event,Road
+Country:Nicaragua,Country,Nicaragua
+Event:2023-0853-IDN,Event,Factory 'Indonesia Tsingshan Stainless Steel' Co.
+Event:2023-0854-MYS,Event,Flood
+Event:2023-0854-THA,Event,Flood
+Event:2023-0855-ZAF,Event,Flood
+Event:2023-0856-AUS,Event,Storm
+Event:2023-0857-COD,Event,Flood
+Event:2023-0858-COD,Event,Mass movement (wet)
+Event:2023-0859-LBR,Event,Road
+Country:Liberia,Country,Liberia
+Event:2023-0866-FRA,Event,Flood
+Event:2023-0868-COG,Event,Flood
+Event:2023-0875-LSO,Event,Storm
+Country:Lesotho,Country,Lesotho
+Subtype:Storm surge,Subtype,Storm surge
+Event:2023-0876-SOM,Event,Cholera
+Event:2023-9167-HND,Event,Drought
+Type:Drought,Type,Drought
+Subtype:Drought,Subtype,Drought
+Event:2023-9234-ESP,Event,Drought
+Event:2023-9234-ITA,Event,Drought
+Event:2023-9494-IDN,Event,Drought
+Event:2023-9589-URY,Event,Drought
+Event:2023-9651-BRA,Event,Drought
+Event:2023-9706-BOL,Event,Drought
+Event:2023-9868-USA,Event,Drought
+Event:2023-9872-CHN,Event,Drought
+Event:2023-9873-FSM,Event,Drought
+Country:Micronesia (Federated States of),Country,Micronesia (Federated States of)
