@@ -1,0 +1,15 @@
+{
+  "kappa": 0.4010416666666667,
+  "po": 0.7282608695652174,
+  "pe": 0.5463137996219282,
+  "n_pairs": 92,
+  "n_queries": 10,
+  "interpretation": "помірна згода",
+  "annotators": "A — cross-encoder cross-encoder/mmarco-mMiniLMv2-L12-H384-v1 (автоматичний), B — LLM Claude Opus 5.5",
+  "confusion": {
+    "A0_B0": 51,
+    "A1_B1": 16,
+    "A1_B0": 23,
+    "A0_B1": 2
+  }
+}
